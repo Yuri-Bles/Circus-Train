@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CircusTrain3/1.0.0": {
+        "runtime": {
+          "CircusTrain3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircusTrain3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

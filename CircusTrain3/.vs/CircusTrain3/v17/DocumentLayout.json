@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890D621D-2832-4991-8897-F9CC3E28CAC4}|..\\TestProjectCircusTrain\\TestProjectCircusTrain.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\testprojectcircustrain\\testatestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\circus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:circus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\iwagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:iwagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\experimentalwagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:experimentalwagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|c:\\users\\yuri\\onedrive\\documents\\semester 2\\tec\\circustrain3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E84BF-3758-4814-837D-C0DFA7E481FF}|CircusTrain3.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circus.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Circus.cs",
+              "RelativeDocumentMoniker": "Circus.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Circus.cs",
+              "RelativeToolTip": "Circus.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:11:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestATestCase.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\TestProjectCircusTrain\\TestATestCase.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectCircusTrain\\TestATestCase.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\TestProjectCircusTrain\\TestATestCase.cs",
+              "RelativeToolTip": "..\\TestProjectCircusTrain\\TestATestCase.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:41:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:49:28.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Train.cs",
+              "RelativeDocumentMoniker": "Train.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Train.cs",
+              "RelativeToolTip": "Train.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:35:33.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWagon.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\IWagon.cs",
+              "RelativeDocumentMoniker": "IWagon.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\IWagon.cs",
+              "RelativeToolTip": "IWagon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:07:09.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wagon.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Wagon.cs",
+              "RelativeDocumentMoniker": "Wagon.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Wagon.cs",
+              "RelativeToolTip": "Wagon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:35:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExperimentalWagon.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\ExperimentalWagon.cs",
+              "RelativeDocumentMoniker": "ExperimentalWagon.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\ExperimentalWagon.cs",
+              "RelativeToolTip": "ExperimentalWagon.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:11:05.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\Yuri\\OneDrive\\Documents\\Semester 2\\TEC\\CircusTrain3\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:09:22.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

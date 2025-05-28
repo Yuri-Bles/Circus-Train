@@ -1,0 +1,14 @@
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\bin\Debug\net8.0\CircusTrain3.exe
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\bin\Debug\net8.0\CircusTrain3.deps.json
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\bin\Debug\net8.0\CircusTrain3.runtimeconfig.json
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\bin\Debug\net8.0\CircusTrain3.dll
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\bin\Debug\net8.0\CircusTrain3.pdb
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.AssemblyInfoInputs.cache
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.AssemblyInfo.cs
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.dll
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\refint\CircusTrain3.dll
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.pdb
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\CircusTrain3.genruntimeconfig.cache
+C:\Users\Yuri\OneDrive\Documents\Semester 2\TEC\CircusTrain3\obj\Debug\net8.0\ref\CircusTrain3.dll
