@@ -18,19 +18,22 @@ namespace CircusTrain3
 
 		public bool WillItBeSafe(Animal newAnimal)
 		{
-			//In experimental wagons an animal will always be alone, so it will always be safe.S
+			//In experimental wagons an animal will always be alone, so it will always be safe.
 			return true;
 		}
 
 		public void AddAnimalToWagon(Animal animal)
 		{
-			if (leftAnimal == null)
+			if (DoesItFit(animal) && WillItBeSafe(animal))
 			{
-				leftAnimal = animal;
-			}
-			else
-			{
-				rightAnimal = animal;
+				if (leftAnimal == null)
+				{
+					leftAnimal = animal;
+				}
+				else
+				{
+					rightAnimal = animal;
+				}
 			}
 		}
 

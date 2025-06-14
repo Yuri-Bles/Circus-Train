@@ -26,6 +26,26 @@ namespace CircusTrain3
 				}
 			}
 
+			if (!foundASpot && newAnimal.isCarnivore && newAnimal.size < 4)
+			{
+				foreach (var experimentalWagon in allExperimentalWagons)
+				{
+					if (experimentalWagon.DoesItFit(newAnimal) && experimentalWagon.WillItBeSafe(newAnimal))
+					{
+						experimentalWagon.AddAnimalToWagon(newAnimal);
+						foundASpot = true;
+						break;
+					}
+				}
+
+				if (!foundASpot && allExperimentalWagons.Count < this.amountOfExperimentalWagons)
+				{
+					ExperimentalWagon experimentalWagon = new ExperimentalWagon();
+					allExperimentalWagons.Add(experimentalWagon);
+					experimentalWagon.AddAnimalToWagon(newAnimal);
+				}
+			}
+
 			if (!foundASpot)
 			{
 				Wagon newWagon = new Wagon();

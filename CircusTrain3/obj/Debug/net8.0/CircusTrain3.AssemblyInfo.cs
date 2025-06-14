@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircusTrain3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c424bef351d956bd8eea399fcf0edb809a25b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircusTrain3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircusTrain3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
